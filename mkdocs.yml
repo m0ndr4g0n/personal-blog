@@ -1,0 +1,10 @@
+site_name: crk0
+theme:
+  name: dark_minimal_dirtree
+  language: pt
+
+nav:
+  - home: index.md
+  - about: about.md
+  - write-ups:
+      - tryhackme: tryhackme/redteam/reconroom/index.md
