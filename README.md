@@ -1,2 +1,3 @@
-```pip install mkdocs-dark-minimal-dirtree
+```
+pip install mkdocs-dark-minimal-dirtree
 ```
